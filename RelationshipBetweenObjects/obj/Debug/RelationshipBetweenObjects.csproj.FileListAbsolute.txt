@@ -1,0 +1,14 @@
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\bin\Debug\RelationshipBetweenObjects.exe.config
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\bin\Debug\RelationshipBetweenObjects.exe
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\bin\Debug\RelationshipBetweenObjects.pdb
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\bin\Debug\EntityFramework.dll
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\bin\Debug\EntityFramework.xml
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\obj\Debug\RelationshipBetweenObjects.csproj.AssemblyReference.cache
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\obj\Debug\RelationshipBetweenObjects.csproj.CoreCompileInputs.cache
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\obj\Debug\RelationshipBetweenObjects.csproj.CopyComplete
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\obj\Debug\RelationshipBetweenObjects.exe
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\obj\Debug\RelationshipBetweenObjects.pdb
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\obj\Debug\RelationshipBetweenObjects.Migrations.TabelasRelacionadas.resources
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\RelationshipBetweenObjects\obj\Debug\RelationshipBetweenObjects.csproj.GenerateResource.cache

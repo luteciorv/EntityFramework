@@ -1,0 +1,16 @@
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe.config
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.pdb
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.AssemblyReference.cache
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.CopyComplete
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.exe
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.pdb
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.Migrations.InitialCreate.resources
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.GenerateResource.cache
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.Migrations.ClientCPF.resources
+C:\Users\luis\Documents\Codes\EntityFrameworkCodeFirst\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.Migrations.Products.resources
