@@ -10,7 +10,14 @@ namespace RelationshipBetweenObjects
     {
         static void Main(string[] args)
         {
-            new CarModel() { Name = "Ford" }.Save();
+            //new CarModel() { Name = "Ford" }.Save();
+            while (true)
+            {
+                Console.Write("1 - Finalizar \n2 - Continuar \nDigite aqui: ");
+                int answer = int.Parse(Console.ReadLine());
+
+                if(answer == 1) { break; }
+            }
         }
     }
 }
